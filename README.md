@@ -9,5 +9,4 @@ JunYBae/JunYBae is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![[Solved.ac
-프로필](https://solved.ac/profile/bjy5420)](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/bjy5420]](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
