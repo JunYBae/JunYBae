@@ -5,7 +5,7 @@
 
 🍊 d
 
-🍊 link : ![GitHub Badge](https://img.shields.io/badge/GitHub-#181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
+🍊 link : [![GitHub Badge](https://img.shields.io/badge/GitHub-#181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
 
 
 💌 contact : bjy5420@naver.com
