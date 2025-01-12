@@ -1,5 +1,4 @@
-## 🌞Welcome! <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />
-
+## 🌞Welcome! 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
 
 <div style="position: relative;">
@@ -11,6 +10,10 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
+
+## Skills
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
 
@@ -28,5 +31,4 @@
 
 ---
 
-## Skills
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&section=footer&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
