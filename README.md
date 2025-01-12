@@ -5,6 +5,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
 [<img src="https://img.shields.io/github/followers/JunYBae?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JunYBae) 
 
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 ----------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true&theme=radical" alt="K-Junyyy's GitHub stats" style="width: 48%; margin-right: 1%;" />
@@ -13,7 +15,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 
 
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
