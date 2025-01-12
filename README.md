@@ -1,4 +1,4 @@
-## 🌞Welcome!
+## 🌞Welcome! <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
 
@@ -27,3 +27,6 @@
 </a>
 
 ---
+
+## Skills
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
