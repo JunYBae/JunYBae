@@ -11,13 +11,15 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
 [![Naver Email](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Minutemailer&logoColor=white)](mailto:bjy5420@naver.com)
 
-
 ## Skills & Tools 🛠️💻
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android-Studio&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0071C5.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
 
