@@ -10,11 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true&theme=radical" alt="K-Junyyy's GitHub stats" style="width: 48%; margin-right: 1%;" />
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bjy5420" alt="Solved.ac Profile" width="400px" />
 </div>
-
-
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true&theme=radical)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
-
 ----------------------------------------------------------------------------------------------------------------------
 
 
