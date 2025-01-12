@@ -10,9 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
 [<img src="https://img.shields.io/github/followers/JunYBae?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JunYBae) 
 
-<a href="https://github.com/JunYBae">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
-</a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
 
 ---
 
