@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%Junyeong's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
 
 <div style="position: relative;">
   <img align="right" width="250" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="position: absolute; top: 250px; right: 10px;" />
