@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bjy5420" alt="Solved.ac Profile" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true" alt="WEGFan's GitHub Stats" />
 </div>
 
 
