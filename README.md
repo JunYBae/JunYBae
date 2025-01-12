@@ -1,4 +1,3 @@
-## 🌞Welcome! 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
 
 <div style="position: relative;">
