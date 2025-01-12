@@ -11,8 +11,11 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
 
-## Skills & tools
+## Skills & Tools 🛠️💻
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
