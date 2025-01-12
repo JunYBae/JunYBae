@@ -30,5 +30,3 @@
 </a>
 
 ---
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&section=footer&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
