@@ -11,7 +11,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
 
-## Skills
+## Skills & tools
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
