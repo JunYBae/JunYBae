@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
 
-<img align="right" width="250" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="position: absolute; top: 0; right: 0;" />
+<div style="position: relative;">
+  <img align="right" width="250" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="position: absolute; top: 250px; right: 10px;" />
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunYBae&count_bg=%2306B828&title_bg=%23F79400&icon=instacart.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
 
