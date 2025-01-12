@@ -1,6 +1,6 @@
 ## 🌞Welcome!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%JunYBae's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
 
 <img align="right" width="250" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="position: absolute; top: 0; right: 0;" />
 
@@ -18,8 +18,9 @@
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bjy5420" alt="Solved.ac Profile" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
 </div>
+
 
 ---
 ### Recently I'm coding in...
