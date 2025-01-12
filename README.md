@@ -1,4 +1,8 @@
 ## 🌞Welcome!
+[<img src="https://img.shields.io/github/followers/JunYBae?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JunYBae) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunYBae&count_bg=%2306B828&title_bg=%23F79400&icon=instacart.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🍊 link : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
@@ -11,10 +15,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
-[<img src="https://img.shields.io/github/followers/JunYBae?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JunYBae) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 
 My name is **Leandra Oliveira**, I'm 20 years old and I'm a student of **Computer Science** at Federal University of Campina Grande (**UFCG**) in Brazil.
