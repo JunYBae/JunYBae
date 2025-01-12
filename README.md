@@ -13,12 +13,10 @@
 
 ## Skills & Tools 🛠️💻
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android-Studio&logoColor=white)
-
-
-
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
 
