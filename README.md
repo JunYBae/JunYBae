@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true&theme=radical" alt="K-Junyyy's GitHub stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunYBae&show_icons=true&theme=radical" alt="K-Junyyy's GitHub stats" style="width: 48%; margin-right: 1%;" />
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bjy5420" alt="Solved.ac Profile" width="400px" />
 </div>
 
