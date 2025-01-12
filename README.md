@@ -9,6 +9,8 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
+[![Naver Email](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Minutemailer&logoColor=white)](mailto:bjy5420@naver.com)
+
 
 ## Skills & Tools 🛠️💻
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
