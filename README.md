@@ -14,26 +14,4 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=bjy5420" alt="Solved.ac Profile" style="width: 48%;" />
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunYBae)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-
-- 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Leandra#1163 </a>
-
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
-
-:star: From [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
