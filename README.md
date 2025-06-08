@@ -9,10 +9,14 @@
       <a href="https://www.instagram.com/jun._y00" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
     <br>
     <br><br>
-  <Strong>📧Email📧</Strong><br><br>
-    <a href="mailto:bjy5420@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Minutemailer&logoColor=white"/></a>
-  <br>
-  <br>
+    <Strong>📧Email📧</Strong><br><br>
+    <a href="mailto:bjy5420@naver.com" target="_blank">
+      <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Minutemailer&logoColor=white"/>
+    </a>
+    <a href="mailto:a01054202080@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+  <br><br>
 </p>
 
 <p align="center">
@@ -50,6 +54,7 @@
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
       <!-- IoT & Embedded -->
       <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
