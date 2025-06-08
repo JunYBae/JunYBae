@@ -7,6 +7,7 @@
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
       <a href="https://www.instagram.com/jun._y00" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
+      <a href="https://github.com/JunYBae" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
     <br>
     <br><br>
     <Strong>📧Email📧</Strong><br><br>
