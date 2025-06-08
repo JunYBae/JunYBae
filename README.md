@@ -1,16 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%Junyeong's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230)
+<p align = "center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20%Junyeong's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=73&height=230" />
+</p>
 
-<div style="position: relative;">
-  <img align="right" width="250" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="position: absolute; top: 250px; right: 10px;" />
-</div>
+---
 
-[<img src="https://img.shields.io/github/followers/JunYBae?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JunYBae) 
+<p align="center">
+    <Strong>☁️SNS list☁️</Strong><br><br>
+      <a href="https://www.instagram.com/jun._y00" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
+    <br>
+    <br><br>
+  <Strong>📧Email📧</Strong><br><br>
+    <a href="mailto:bjy5420@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Minutemailer&logoColor=white"/></a>
+  <br>
+  <br>
+</p>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=circle&logo=GitHub&logoColor=white)](https://github.com/JunYBae)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jun._y00)
-[![Naver Email](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Minutemailer&logoColor=white)](mailto:bjy5420@naver.com)
+<p align="center">
+안녕하세요 👐 제 이름은 <strong>배준영</strong>입니다.<br>
+<strong>“문제를 관찰하고, 기술로 해결하는 개발자”</strong>가 저의 정체성입니다.<br>
+단순한 구현을 넘어, <strong>사용자 편의성과 현장 적용 가능한 결과물</strong>을 만들기 위해<br>
+끊임없이 고민하고 실행해왔습니다.<br>
+배움을 중요하게 생각하며, 오늘도 데굴데굴 구르며 성장 중입니다!<br>
+</p>
 
-
+---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjy5420)](https://solved.ac/bjy5420)
 
 ---
